@@ -33,10 +33,10 @@
     "contributors": [
         "David Miller (https://davidmiller.io/)"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer.git"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sandy-Shang/portfolio"
+  },
     "dependencies": {
         "bootstrap": "5.1.3"
     },
