@@ -1,7 +1,7 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "Sandy Shag portfolio",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node server.js"
   },
